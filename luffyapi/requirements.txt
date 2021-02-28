@@ -1,0 +1,11 @@
+celery==5.0.2
+Django==2.2
+django-cors-headers==3.5.0
+django-filter==2.4.0
+django-redis==4.12.1
+djangorestframework==3.12.2
+djangorestframework-jwt==1.11.0
+PyMySQL==0.10.1
+redis==3.5.3
+xadmin @ https://codeload.github.com/sshwsfc/xadmin/zip/django2
+
